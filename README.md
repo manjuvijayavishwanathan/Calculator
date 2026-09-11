@@ -43,7 +43,8 @@ Possible improvements include:
 * Memory buttons
 * Improved mobile interface
 
-## 👨‍💻 Author
+👨‍🏫 Acknowledgement
 
-Manju Vijaya P V
+I would like to thank my Mentor @Vimal4hckr for their valuable guidance and support throughout the development of this project. Mentor: @Vimal4hckr Author: @manjuvijayavishwanathan
+
 
